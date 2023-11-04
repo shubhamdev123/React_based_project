@@ -4,7 +4,7 @@
 
 ### To Start This Project
 
-### `npm i`
+### `npm install`
 
 Install all the packages you need by running the command in your terminal.
 
